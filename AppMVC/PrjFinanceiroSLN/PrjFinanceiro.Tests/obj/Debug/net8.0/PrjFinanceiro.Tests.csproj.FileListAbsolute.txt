@@ -1,0 +1,6 @@
+E:\JoaoGabriel\Csharp\sistemafinanceiro\AppMVC\PrjFinanceiroSLN\PrjFinanceiro.Tests\obj\Debug\net8.0\PrjFinanceiro.Tests.csproj.AssemblyReference.cache
+E:\JoaoGabriel\Csharp\sistemafinanceiro\AppMVC\PrjFinanceiroSLN\PrjFinanceiro.Tests\obj\Debug\net8.0\PrjFinanceiro.Tests.GeneratedMSBuildEditorConfig.editorconfig
+E:\JoaoGabriel\Csharp\sistemafinanceiro\AppMVC\PrjFinanceiroSLN\PrjFinanceiro.Tests\obj\Debug\net8.0\PrjFinanceiro.Tests.AssemblyInfoInputs.cache
+E:\JoaoGabriel\Csharp\sistemafinanceiro\AppMVC\PrjFinanceiroSLN\PrjFinanceiro.Tests\obj\Debug\net8.0\PrjFinanceiro.Tests.AssemblyInfo.cs
+E:\JoaoGabriel\Csharp\sistemafinanceiro\AppMVC\PrjFinanceiroSLN\PrjFinanceiro.Tests\obj\Debug\net8.0\PrjFinanceiro.Tests.csproj.CoreCompileInputs.cache
+E:\JoaoGabriel\Csharp\sistemafinanceiro\AppMVC\PrjFinanceiroSLN\PrjFinanceiro.Tests\obj\Debug\net8.0\PrjFinanceiro.Tests.sourcelink.json
